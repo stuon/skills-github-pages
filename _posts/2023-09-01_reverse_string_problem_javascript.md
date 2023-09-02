@@ -3,7 +3,7 @@ title: "Reverse String Problem in Javascript"
 date: 2023-09-01
 ---
 
-# Reverse String
+# Reverse String in Javascript
 
 The reverse string problem is a classic programming challenge where you're tasked with reversing the order of characters in a given string. While it might seem like a simple task, it can be approached in various ways, each with its own trade-offs in terms of efficiency and code complexity.
 
