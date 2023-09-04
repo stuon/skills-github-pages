@@ -10,7 +10,6 @@ The reverse string problem is a classic programming challenge where you're taske
 ## Test Cases
 
 ```javascript
-// Test Cases
 console.log(reverseString("hello"));           // Output: "olleh"
 console.log(reverseString("world"));           // Output: "dlrow"
 console.log(reverseString("12345"));           // Output: "54321"
